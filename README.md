@@ -1,0 +1,2 @@
+#Payu-Payment-gateway-for-Reseller-Club
+This extends Reseller Club to accepts money/payments through Payu Payment gateway on your supersite. Plugin is a set of files, with step by step documentation. Open the documentation, make slight changes, enter API/key values from CCAvenue &amp; Reseller Club account to the files as shown in documentation. Start accepting payment on your store front within 5 to 10 minutes.
