@@ -6,9 +6,9 @@ This extends Reseller Club to accepts money/payments through Payu Payment gatewa
 
 All registered trademarks belong to their respective owners. 
 
-Payu , are trademarks of Naspers group., registered in the India, U.S. and other countries. 
+Payu, are trademarks of Naspers group., registered in the India, U.S. and other countries. 
 Reseller Club, are trademarks of Reseller Club., registered in the India, U.S. and other countries. 
 
 This Plugin is third party plugin made by Ladybird Web Solution and is not owned or made by Payu  or Reseller Club. This plugin will not work without proper subscription/agreement with Payu & Reseller Club 
 
-We are official service provider for Reseller Club and also channel partner with Payu Money
+We are official service provider for Reseller Club 
